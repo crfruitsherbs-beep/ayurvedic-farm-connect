@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Sprout className="h-6 w-6" />
-              <h3 className="font-bold text-lg">The Farm Life</h3>
+              <h3 className="font-bold text-lg">CR Fruits and Herbs</h3>
             </div>
             <p className="text-sm text-primary-foreground/80">
               Leading Ayurvedic medicinal plant consultancy serving 2000+ farmers across India.
@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-6 text-center text-sm text-primary-foreground/60">
-          <p>&copy; {new Date().getFullYear()} The Farm Life. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} CR Fruits and Herbs. All rights reserved.</p>
         </div>
       </div>
     </footer>

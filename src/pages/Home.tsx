@@ -115,7 +115,7 @@ const Home = () => {
                   />
                   <div>
                     <p className="text-xl text-card-foreground mb-6 italic">
-                      "The Farm Life transformed my farming journey. Their expert guidance on Ashwagandha cultivation helped me triple my income. The support and training provided are exceptional."
+                      "CR Fruits and Herbs transformed my farming journey. Their expert guidance on Ashwagandha cultivation helped me triple my income. The support and training provided are exceptional."
                     </p>
                     <p className="font-bold text-foreground">Rajesh Kumar</p>
                     <p className="text-muted-foreground">Farmer from Maharashtra</p>

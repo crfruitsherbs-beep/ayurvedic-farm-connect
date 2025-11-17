@@ -22,7 +22,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <Sprout className="h-8 w-8 text-primary group-hover:text-accent transition-colors" />
             <div>
-              <h1 className="text-xl font-bold text-foreground">The Farm Life</h1>
+              <h1 className="text-xl font-bold text-foreground">CR Fruits and Herbs</h1>
               <p className="text-xs text-muted-foreground">Ayurvedic Farming Excellence</p>
             </div>
           </Link>
